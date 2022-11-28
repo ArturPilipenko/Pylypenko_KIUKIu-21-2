@@ -1,0 +1,15 @@
+C:\Users\ThinkPad\source\repos\Lab1_Pylypenko\Lab1_Pylypenko\bin\Debug\net6.0\Lab1_Pylypenko.exe
+C:\Users\ThinkPad\source\repos\Lab1_Pylypenko\Lab1_Pylypenko\bin\Debug\net6.0\Lab1_Pylypenko.deps.json
+C:\Users\ThinkPad\source\repos\Lab1_Pylypenko\Lab1_Pylypenko\bin\Debug\net6.0\Lab1_Pylypenko.runtimeconfig.json
+C:\Users\ThinkPad\source\repos\Lab1_Pylypenko\Lab1_Pylypenko\bin\Debug\net6.0\Lab1_Pylypenko.dll
+C:\Users\ThinkPad\source\repos\Lab1_Pylypenko\Lab1_Pylypenko\bin\Debug\net6.0\Lab1_Pylypenko.pdb
+C:\Users\ThinkPad\source\repos\Lab1_Pylypenko\Lab1_Pylypenko\obj\Debug\net6.0\Lab1_Pylypenko.csproj.AssemblyReference.cache
+C:\Users\ThinkPad\source\repos\Lab1_Pylypenko\Lab1_Pylypenko\obj\Debug\net6.0\Lab1_Pylypenko.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ThinkPad\source\repos\Lab1_Pylypenko\Lab1_Pylypenko\obj\Debug\net6.0\Lab1_Pylypenko.AssemblyInfoInputs.cache
+C:\Users\ThinkPad\source\repos\Lab1_Pylypenko\Lab1_Pylypenko\obj\Debug\net6.0\Lab1_Pylypenko.AssemblyInfo.cs
+C:\Users\ThinkPad\source\repos\Lab1_Pylypenko\Lab1_Pylypenko\obj\Debug\net6.0\Lab1_Pylypenko.csproj.CoreCompileInputs.cache
+C:\Users\ThinkPad\source\repos\Lab1_Pylypenko\Lab1_Pylypenko\obj\Debug\net6.0\Lab1_Pylypenko.dll
+C:\Users\ThinkPad\source\repos\Lab1_Pylypenko\Lab1_Pylypenko\obj\Debug\net6.0\refint\Lab1_Pylypenko.dll
+C:\Users\ThinkPad\source\repos\Lab1_Pylypenko\Lab1_Pylypenko\obj\Debug\net6.0\Lab1_Pylypenko.pdb
+C:\Users\ThinkPad\source\repos\Lab1_Pylypenko\Lab1_Pylypenko\obj\Debug\net6.0\Lab1_Pylypenko.genruntimeconfig.cache
+C:\Users\ThinkPad\source\repos\Lab1_Pylypenko\Lab1_Pylypenko\obj\Debug\net6.0\ref\Lab1_Pylypenko.dll
